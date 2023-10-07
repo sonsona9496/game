@@ -1,0 +1,61 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* background-color: #292929; */
+/* background-color: #100f0f; */
+/* background-color: #ffa31a; */
+body{
+  background-color: #292929;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+
+.game{
+  margin-top: 100px;
+  width: 500px;
+}
+.game img.image{
+  width: 100%;
+  height: 250px;
+}
+.btn-options{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 80px;
+  background: #fff;
+  padding: 10px 20px;
+
+}
+.btn-options span{
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  cursor: pointer;
+}
+.btn-options span img{
+  width: 100%;
+  height: 100%;
+}
+
+.message{
+  background-color: #fff;
+  text-align: right;
+  margin-top: 20px;
+  padding: 10px 20px;
+}
+.win-message{
+  color: #02a137;
+}
+.loss-message{
+  color: red;
+}
+@media(max-width : 600px){
+  .game{
+    width: 100%;
+  }
+}
