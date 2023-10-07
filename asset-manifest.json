@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/game.git/static/css/main.0c290890.css",
+    "main.js": "/game.git/static/js/main.bf75084e.js",
+    "static/js/787.85bb9051.chunk.js": "/game.git/static/js/787.85bb9051.chunk.js",
+    "static/media/rock-game.jpg": "/game.git/static/media/rock-game.ab6b02560adfc01de970.jpg",
+    "index.html": "/game.git/index.html",
+    "main.0c290890.css.map": "/game.git/static/css/main.0c290890.css.map",
+    "main.bf75084e.js.map": "/game.git/static/js/main.bf75084e.js.map",
+    "787.85bb9051.chunk.js.map": "/game.git/static/js/787.85bb9051.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c290890.css",
+    "static/js/main.bf75084e.js"
+  ]
+}
